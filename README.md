@@ -73,34 +73,6 @@ My personal portfolio and project archive for documenting work, experiments, and
 
 ---
 
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=prvnydvr&theme=default&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=prvnydvr&theme=default&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=prvnydvr&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=prvnydvr&theme=flat&no-frame=false&no-bg=false&margin-w=4)
-
----
-
-# ✍️ Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
----
-
-# 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=prvnydvr&limit=5&theme=default&combine_all_yearly_contributions=true)
-
----
-
 [![](https://visitcount.itsvg.in/api?id=prvnydvr&icon=2&color=0)](https://visitcount.itsvg.in)
 
 <!-- Built and maintained by Praveen Yadav · @prvnydvr -->
