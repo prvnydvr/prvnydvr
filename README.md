@@ -1,16 +1,16 @@
 # Praveen Yadav
 
-I’m a Class 12 student from Lucknow, India, building practical software products around students, productivity, privacy-first AI, and creative web experiences.
+I’m a Class 12 student from Lucknow, India, building practical software products around productivity, privacy-first AI, education, and creative web experiences.
 
-My work focuses on turning ideas into real projects — from frontend interfaces and student platforms to offline AI tools and computer-vision experiments.
+My work focuses on turning ideas into real projects — from frontend interfaces and utility tools to offline AI apps and computer-vision experiments.
 
 ---
 
 ## Current Focus
 
 - Building **Parchhain**, a privacy-first offline AI memory and journaling app.
-- Building **Peernest**, a collaboration platform for high school students.
 - Improving my personal portfolio at **prvnydvr.com**.
+- Building small, practical tools around productivity, education, and personal workflows.
 - Learning advanced frontend development, product design, AI integration, and performance-focused web development.
 
 ---
@@ -25,17 +25,6 @@ The goal is to help users write, reflect, and revisit personal memories without 
 
 **Focus areas:**  
 Flutter, local-first architecture, offline AI, personal data ownership, journaling UX.
-
----
-
-### Peernest
-
-A collaboration platform for high school students to share projects, research ideas, resources, and learning opportunities.
-
-The goal is to help students discover collaborators and build stronger academic/project profiles.
-
-**Focus areas:**  
-Student collaboration, project discovery, profiles, communities, web app development.
 
 ---
 
@@ -109,8 +98,8 @@ Next.js, TypeScript, Tailwind CSS, portfolio design, technical writing.
 
 ## Open to Collaborating On
 
-- Student-focused tools
-- Productivity apps
+- Productivity tools
+- Student-focused software
 - Open-source frontend projects
 - AI-assisted software
 - Creative web experiences
@@ -120,9 +109,13 @@ Next.js, TypeScript, Tailwind CSS, portfolio design, technical writing.
 
 ## GitHub Stats
 
-![Praveen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prvnydvr&show_icons=true&theme=default&hide_border=true)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=prvnydvr&show_icons=true&hide_border=true" alt="Praveen's GitHub Stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prvnydvr&layout=compact&theme=default&hide_border=true)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prvnydvr&layout=compact&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
